@@ -1,0 +1,22 @@
+sceneSetups:
+- path: Assets/03.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/02.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/01.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/05.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/07.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/06.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/New Folder/11.unity
+  isLoaded: 1
+  isActive: 1
